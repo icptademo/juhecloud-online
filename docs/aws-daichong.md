@@ -1,3 +1,9 @@
+---
+title: "AWS 账号代充：国际账号自助开通与续费 - 聚合云充值"
+description: "AWS 国际账号自助开通与续费：无需信用卡，USDT 链上结算，独立原生账号，200 USDT 起。"
+layout: default
+---
+
 # AWS 账号代充：国际账号自助开通与续费
 
 关键词：AWS 账号代充、AWS 国际账号代充、AWS 账号充值、AWS 开户
