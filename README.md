@@ -1,3 +1,9 @@
+---
+title: "国际云账号自助开户充值指南 - 聚合云充值"
+description: "聚合云充值（juhecloud.online）是一站式国际云账号自助开户充值平台，无需企业资质和信用卡，用 USDT 开通或续费阿里云国际、腾讯云国际和 AWS 账号。"
+layout: default
+---
+
 # 聚合云充值 juhecloud.online：国际云账号自助开户充值指南
 
 聚合云充值（juhecloud.online）是一个一站式国际云账号自助开户充值平台。
