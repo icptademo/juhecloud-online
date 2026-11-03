@@ -1,0 +1,14 @@
+<section class="article-list" aria-labelledby="article-list-title">
+<h2 id="article-list-title">文章</h2>
+<ul class="cards">
+{% assign articles = site.pages | where: "article", true | sort: "list_order" %}
+{% for article in articles %}
+<li class="card">
+<p class="card-date"><time datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: "%Y年%m月%d日" }}</time></p>
+<h3><a href="{{ article.url | relative_url }}">{{ article.title | escape }}</a></h3>
+<p>{{ article.description | escape }}</p>
+<a class="more" href="{{ article.url | relative_url }}">阅读全文</a>
+</li>
+{% endfor %}
+</ul>
+</section>

@@ -1,7 +1,13 @@
 ---
-title: "AWS 账号代充：国际账号自助开通与续费 - 聚合云充值"
+layout: post
+title: "AWS 账号代充：国际账号自助开通与续费"
 description: "AWS 国际账号自助开通与续费：无需信用卡，USDT 链上结算，独立原生账号，200 USDT 起。"
-layout: default
+date: 2026-11-04
+list_order: 3
+article: true
+nav_title: "AWS"
+redirect_from:
+  - /html/aws-daichong.html
 ---
 
 # AWS 账号代充：国际账号自助开通与续费

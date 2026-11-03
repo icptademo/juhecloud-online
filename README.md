@@ -1,7 +1,6 @@
 ---
 title: "国际云账号自助开户充值指南 - 聚合云充值"
 description: "聚合云充值（juhecloud.online）是一站式国际云账号自助开户充值平台，无需企业资质和信用卡，用 USDT 开通或续费阿里云国际、腾讯云国际和 AWS 账号。"
-layout: default
 ---
 
 # 聚合云充值 juhecloud.online：国际云账号自助开户充值指南
@@ -10,6 +9,8 @@ layout: default
 无需企业资质，无需信用卡，用 USDT 链上支付，即可开通或续费国际云账号。
 
 官网：https://www.juhecloud.online
+
+指南站点：https://icptademo.github.io/juhecloud-online/
 
 ## 本仓库内容
 
@@ -44,3 +45,9 @@ layout: default
 ## 免责说明
 
 本仓库内容以 juhecloud.online 公开页面介绍为准，具体价格、库存、折扣和开通条件请以官网实时页面为准。涉及数字货币支付的内容，请自行了解当地合规要求并注意风险。
+
+## 发布到 GitHub Pages
+
+指南站点：https://icptademo.github.io/juhecloud-online/
+
+仓库 Settings → Pages → Build and deployment：Source 选 Deploy from a branch，Branch 选 `main`，文件夹选 `/ (root)`。GitHub 会用仓库里的 Jekyll 配置生成站点。
