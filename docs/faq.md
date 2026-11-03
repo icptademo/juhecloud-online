@@ -1,7 +1,13 @@
 ---
-title: "常见问题 - 聚合云充值"
+layout: post
+title: "常见问题"
 description: "聚合云充值常见问题：是否需要企业资质或信用卡、开户时间、已有账号续费、USDT 支付方式，以及代理与分享佣金。"
-layout: default
+date: 2026-11-04
+list_order: 4
+article: true
+nav_title: "常见问题"
+redirect_from:
+  - /html/faq.html
 ---
 
 # 常见问题：聚合云充值 juhecloud.online

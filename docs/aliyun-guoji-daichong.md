@@ -1,7 +1,13 @@
 ---
-title: "阿里云国际账号代充：无需企业资质和信用卡的自助开通方式 - 聚合云充值"
+layout: post
+title: "阿里云国际账号代充：无需企业资质和信用卡的自助开通方式"
 description: "阿里云国际账号代充指南：无需企业资质和信用卡，用 USDT 自助开通或给已有账号续费，拿到独立原生国际账号，30 USDT 起。"
-layout: default
+date: 2026-11-04
+list_order: 1
+article: true
+nav_title: "阿里云国际"
+redirect_from:
+  - /html/aliyun-guoji-daichong.html
 ---
 
 # 阿里云国际账号代充：无需企业资质和信用卡的自助开通方式

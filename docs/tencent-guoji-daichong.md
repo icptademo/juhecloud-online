@@ -1,7 +1,13 @@
 ---
-title: "腾讯云国际账号代充：自助开通与续费指南 - 聚合云充值"
+layout: post
+title: "腾讯云国际账号代充：自助开通与续费指南"
 description: "腾讯云国际账号代充与续费指南：无需企业资质和信用卡，USDT 链上支付，独立原生国际账号，30 USDT 起。"
-layout: default
+date: 2026-11-04
+list_order: 2
+article: true
+nav_title: "腾讯云国际"
+redirect_from:
+  - /html/tencent-guoji-daichong.html
 ---
 
 # 腾讯云国际账号代充：自助开通与续费指南
